@@ -1,6 +1,7 @@
 # replicator dynamic
 
-under construction
+this is to draw the dynamic of a population playing bargaining game over time.
+there are 4 types of machines: High, Medium, Low, Accommodator.
 
 # how to run
 
